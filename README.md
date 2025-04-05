@@ -45,6 +45,6 @@ El objetivo de esta guía es ayudarte a convertirte en un desarrollador Java com
 
 ---
 
-📌 **Autor:** [Tu Nombre]  
+📌 **Autor:** [Ricardo Martinez]  
 📅 **Última actualización:** Abril 2025  
-📧 **Contacto:** [tu-correo@ejemplo.com]
+📧 **Contacto:** [rickmartinezbanda@gmail.com]
