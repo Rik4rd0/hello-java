@@ -1,5 +1,4 @@
 # hello-java
----
 [![Java](https://img.shields.io/badge/Java-JDK_21+-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.oracle.com/es/java)
 
 ## Guia de aprendizaje de java 
@@ -39,37 +38,37 @@ Para instalar Java, sigue estos pasos:
 ## 🔗 [1. Documentación oficial de Java – Oracle](https://docs.oracle.com/javase/)
 La documentación oficial de Oracle ofrece manuales completos por versión de Java (como Java SE 8, 11, 17, 21), incluyendo la referencia de toda la API, guías de migración entre versiones, configuraciones de seguridad, y documentación técnica sobre concurrencia, programación de red, archivos, y más.
 
----
+
 
 ## 🔗 [2. Java Tutorials – Oracle](https://docs.oracle.com/javase/tutorial/)
 Estos tutoriales oficiales de Oracle están diseñados para enseñar Java desde cero. Incluyen fundamentos del lenguaje, orientación a objetos, manejo de interfaces gráficas con Swing y JavaFX, conexión a bases de datos con JDBC, hilos, concurrencia y aspectos de seguridad básicos.
 
----
+
 
 ## 🔗 [3. API de Java (Javadoc)](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
 Esta es la referencia técnica completa de todas las clases, interfaces, métodos, paquetes y constructores disponibles en Java. Es ideal para consultar rápidamente cómo usar una clase o método específico con ejemplos y descripciones detalladas.
 
----
+
 
 ## 🔗 [4. Baeldung](https://www.baeldung.com/)
 Baeldung ofrece artículos prácticos y modernos sobre Java, cubriendo temas como Java 8+, programación funcional, buenas prácticas, pruebas automatizadas, y guías completas sobre frameworks populares como Spring, Hibernate, REST APIs y microservicios.
 
----
+
 
 ## 🔗 [5. Geeks for Geeks – Java](https://www.geeksforgeeks.org/java/)
 Este sitio explica de forma clara y sencilla conceptos de Java tanto para principiantes como para programadores intermedios. Contiene ejercicios prácticos, problemas resueltos, y explicaciones sobre herencia, colecciones, manejo de errores, hilos y estructuras básicas del lenguaje.
 
----
+
 
 ## 🔗 [6. W3Schools – Java](https://www.w3schools.com/java/)
 W3Schools ofrece un curso interactivo ideal para quienes se inician en Java. Aquí puedes aprender sobre la sintaxis, tipos de datos, estructuras de control, métodos, clases y objetos, todo con ejemplos simples, pruebas interactivas y un editor online para practicar.
 
----
+
 
 ## 🔗 [7. Java Code Geeks](https://www.javacodegeeks.com/)
 Este sitio está orientado a desarrolladores con conocimientos intermedios o avanzados. Proporciona artículos sobre arquitectura de software, herramientas como Maven y Docker, integración con Spring Boot, microservicios, y temas de rendimiento y escalabilidad en aplicaciones Java.
 
----
+
 
 ## ✅ Recomendación de uso
 
